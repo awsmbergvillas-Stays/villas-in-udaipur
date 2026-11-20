@@ -11,6 +11,7 @@ A directory of **73 whole-villa stays in Udaipur, Rajasthan**, listed by [Awsmbe
 ## Browse villas in Udaipur
 
 Explore the full collection of [villas in Udaipur](https://awsmberg.com/villas-in-udaipur) on Awsmberg, including options with pools, lawns and lake views, and properties suited to large groups and events.
+More guides: [Group stays and celebrations in Udaipur](group-stays-and-celebrations-in-udaipur.md)
 
 ## Planning your Udaipur stay
 
